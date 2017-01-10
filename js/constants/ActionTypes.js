@@ -1,0 +1,3 @@
+export const ADD_ENTITY = 'ADD_ENTITY'
+export const SET_ENTITY_PROPERTY = 'SET_ENTITY_PROPERTY'
+export const DELETE_ENTITY = 'DELETE_ENTITY'
